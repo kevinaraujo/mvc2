@@ -6,3 +6,5 @@
 
 # login : lucas@gmail.com
 # senha: 123
+
+# faça o dump do sql que está na raiz e no config.php troque a constante DB_NAME para o nome do seu BD
